@@ -1,20 +1,20 @@
 Algoritmo "semnome"
 // 
 //  
-// Descrição   : Aqui você descreve o que o programa faz! (função)
-// Autor(a)    : Nome do(a) aluno(a)
+// DescriÃ§Ã£o   : Conta quanto tempo de vida uma pessoa tem a menos por fumar
+// Autor(a)    : Mariana FÃ©lix
 // Data atual  : 27/11/2022
 Var
-// Seção de Declarações das variáveis 
+// SeÃ§Ã£o de DeclaraÃ§Ãµes das variÃ¡veis 
     cigano, menosvida, dia, ano, menosano: real
 
 Inicio
-// Seção de Comandos, procedimento, funções, operadores, etc... 
-   escreva("Informe quantos cigarros você fumou por dia:")
+// SeÃ§Ã£o de Comandos, procedimento, funÃ§Ãµes, operadores, etc... 
+   escreva("Informe quantos cigarros vocÃª fumou por dia:")
    escreval("")
    leia(dia)
    limpatela
-   escreva("Informe por quanto tempo você fumou cigarros:")
+   escreva("Informe por quanto tempo vocÃª fumou cigarros:")
    escreval("")
    leia(ano)
    limpatela
@@ -26,7 +26,7 @@ Inicio
    
 
 //resultado
-escreva("Por conta do seu tempo fumando, você terá agora:")
+escreva("Por conta do seu tempo fumando, vocÃª terÃ¡ agora:")
 escreval("")
 escreva(menosvida, " dias a menos de vida, o que equivale a:")
 escreval("")
